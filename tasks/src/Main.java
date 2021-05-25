@@ -7,7 +7,6 @@ public class Main {
 
         Double numerator = (4 * Math.pow(Math.PI, 2) * Math.pow(a, 3));
         Double denumerator = (Math.pow(p, 2) * (m1 + m2));
-
         Double g = numerator / denumerator;
 
         System.out.println(g);
